@@ -1,4 +1,4 @@
 {
-  "Status" : true,
-  "StatusText" : "Software is not activated!\nPlease contact with developer to activate."
+  "Status" : false,
+  "StatusText" : "Software is not activated!\nIt is under maintenance"
 }
