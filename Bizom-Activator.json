@@ -1,6 +1,6 @@
 {
   "Status" : true,
   "StatusText" : "Software is not activated!\nPlease contact with developer to reactivate",
-  "API_Status" : "On",
-  "API_Key": 42501
+  "API_Status" : "Off",
+  "API_Key": "42501"
 }
