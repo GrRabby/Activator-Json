@@ -1,0 +1,21 @@
+{
+    "activate" : "true",
+    "App_id" : "252345",
+    "Users" :  {
+        "ASDFASDFASD-ASDFA-ASDFAF" : {
+            "UserName" : "Gr Rabby",
+            "Phone" : "sdfgsdfgsdfgsdfg",
+            "Status" : "On"
+            },
+        "ASDFA-GHDF-DFGH" : {
+            "UserName" : "Gr Rabby",
+            "Phone" : "sdfgsdfgsdfgsdfg",
+            "Status" : "On"
+            },
+        "ASDFASD-FDGHDFG-QWR" : {
+            "UserName" : "Gr Rabby",
+            "Phone" : "sdfgsdfgsdfgsdfg",
+            "Status" : "On"
+            }
+    }
+}
