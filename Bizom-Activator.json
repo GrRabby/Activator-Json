@@ -3,5 +3,17 @@
   "StatusText" : "Software is not activated!\nPlease contact with developer to reactivate",
   "API_Status" : "On",
   "API_Key": "grrabby",
-  "App_Unique_ID": 123456789
+  "App_Unique_ID": 123456789,
+  "Users" :  {
+            "MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtZTRiOTdhMWMyZTZjXzNTVkhTUTI=" : {
+                "UserName" : "Gr Rabby",
+                "Phone" : "01728575327",
+                "Status" : "On"
+        },
+            "MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtOTBiMTFjOWZiMTg4XzRXVkQ0WTE=" : {
+                "UserName" : "Robbani",
+                "Phone" : "01728575327",
+                "Status" : "On"
+        }
+    }
 }
