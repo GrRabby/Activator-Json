@@ -8,6 +8,7 @@
             "MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtZTRiOTdhMWMyZTZjXzNTVkhTUTI=" : {
                 "UserName" : "Gr Rabby",
                 "Status" : "On",
+                "StatusText" : "User is not activated!\nPlease contact with developer to reactivate",
                 "API_Status" : "On"
         }
     }
