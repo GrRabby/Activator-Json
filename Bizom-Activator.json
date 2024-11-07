@@ -10,7 +10,7 @@
                 "Status" : true,
                 "StatusText" : "User is not activated!\nPlease contact with developer to reactivate",
                 "API_Status" : "On",
-                "API_Key": "grrabby",
+                "API_Key": "grrabby"
         }
     }
 }
