@@ -1,7 +1,7 @@
 {
   "Status" : true,
   "StatusText" : "Software is not activated!\nPlease contact with developer to reactivate",
-  "API_Status" : "Off",
+  "API_Status" : "On",
   "API_Key": "grrabby",
   "App_Unique_ID": 123456789,
   "Users" :  {
@@ -9,8 +9,8 @@
                 "UserName" : "Gr Rabby",
                 "Status" : true,
                 "StatusText" : "ভোম্বোলা উইরা জা ম্যাঙ্গেরপোলা 🙃",
-                "API_Status" : "On",
-                "API_Key": "grrabby"
+                "API_Status" : "Off",
+                "API_Key": "grrabbygr"
         }
     }
 }
