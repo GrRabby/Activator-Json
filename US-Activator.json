@@ -5,12 +5,14 @@
             "MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtZTRiOTdhMWMyZTZjXzNTVkhTUTI=" : {
                 "UserName" : "Gr Rabby",
                 "Phone" : "01728575327",
-                "Status" : "On"
+                "Status" : "On",
+                "Status_text" : "User not activated please contact with developer."
         },
             "MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtOTBiMTFjOWZiMTg4XzRXVkQ0WTE=" : {
                 "UserName" : "Robbani",
                 "Phone" : "01728575327",
-                "Status" : "On"
+                "Status" : "On",
+                "Status_text" : "User not activated please contact with developer."
         }
     }
 }
