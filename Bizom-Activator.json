@@ -8,7 +8,7 @@
             "MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtOTBiMTFjOWZiMTg4XzRXVkQ0WTE=" : {
                 "UserName" : "Gr Rabby",
                 "Status" : true,
-                "StatusText" : "ভোম্বোলা উইরা জা ম্যাঙ্গেরপোলা 🙃",
+                "StatusText" : "User not activated\nPlease contact with developer to reactivate",
                 "API_Status" : "On",
                 "API_Key": "grrabby"
         },
@@ -17,7 +17,7 @@
                 "Status" : true,
                 "StatusText" : "ভোম্বোলা উইরা জা ম্যাঙ্গেরপোলা 🙃",
                 "API_Status" : "On",
-                "API_Key": "grrabby"
+                "API_Key": "grrabbygr"
         }
     }
 }
