@@ -11,7 +11,7 @@
                 "StatusText" : "User not activated\nPlease contact with developer to reactivate",
                 "API_Status" : "On",
                 "API_Key": "grrabbygr",
-                "Edit_DataTables" : true
+                "Edit_DataTables" : false
         },
             "MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtZTRiOTdhMWMyZTZjXzNTVkhTUTI=" : {
                 "UserName" : "Rabby(Dell)",
@@ -19,7 +19,7 @@
                 "StatusText" : "ভোম্বোলা উইরা জা ম্যাঙ্গেরপোলা 🙃",
                 "API_Status" : "On",
                 "API_Key": "grrabbygr",
-                "Edit_DataTables" : true
+                "Edit_DataTables" : false
         }
     }
 }
