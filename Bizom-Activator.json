@@ -19,7 +19,7 @@
                 "StatusText" : "User not activated\nPlease contact with developer to reactivate",
                 "API_Status" : "On",
                 "API_Key": "grrabbygr",
-                "Edit_DataTables" : false
+                "Edit_DataTables" : true
         }
     }
 }
