@@ -11,12 +11,12 @@
                 "StatusText" : "User not activated\nPlease contact with developer to reactivate",
                 "API_Status" : "On",
                 "API_Key": "grrabbygr",
-                "Edit_DataTables" : false
+                "Edit_DataTables" : true
         },
             "MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtZTRiOTdhMWMyZTZjXzNTVkhTUTI=" : {
                 "UserName" : "Rabby(Dell)",
                 "Status" : true,
-                "StatusText" : "ভোম্বোলা উইরা জা ম্যাঙ্গেরপোলা 🙃",
+                "StatusText" : "User not activated\nPlease contact with developer to reactivate",
                 "API_Status" : "On",
                 "API_Key": "grrabbygr",
                 "Edit_DataTables" : false
