@@ -15,13 +15,13 @@
                 "database_type" : "sqlite"
         },
             "MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtZTRiOTdhMWMyZTZjXzNTVkhTUTI=" : {
-                "UserName" : "Rabby(Dell)",
+                "UserName" : "mhl-sylhet-branch",
                 "Status" : true,
                 "StatusText" : "User not activated\nPlease contact with developer to reactivate",
                 "API_Status" : "On",
                 "API_Key": "grrabbygr",
                 "Edit_DataTables" : true,
-                "database_type" : "MySql"
+                "database_type" : "sqlite"
         }
     }
 }
