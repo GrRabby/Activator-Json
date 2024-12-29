@@ -6,7 +6,7 @@
   "App_Unique_ID": 123456789,
   "Users" :  {
             "MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtOTBiMTFjOWZiMTg4XzRXVkQ0WTE=" : {
-                "UserName" : "MHL-Sylhet-Branch",
+                "UserName" : "mhl-sylhet-branch",
                 "Status" : true,
                 "StatusText" : "User not activated\nPlease contact with developer to reactivate",
                 "API_Status" : "On",
