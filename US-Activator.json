@@ -37,6 +37,12 @@
                 "Phone" : "20.235.143.226",
                 "Status" : "On",
                 "Status_text" : "User not activated please contact with developer."
+        },
+        "MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtMDI1OWQ3MGZmOTk3X2VjMmJjYjZkLWJjZjItMjRmYy0wMjlhLWRiOTMyNWE4OWU4NA==" : {
+                "UserName" : "RDP-AWS1",
+                "Phone" : "ec2-52-66-199-80.ap-south-1.compute.amazonaws.com",
+                "Status" : "On",
+                "Status_text" : "User not activated please contact with developer."
         }
     }
 }
