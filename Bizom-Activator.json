@@ -21,7 +21,7 @@
                 "API_Status" : "On",
                 "API_Key": "grrabbygr",
                 "Edit_DataTables" : true,
-                "database_type" : "sqlite"
+                "database_type" : "MySql"
         }
     }
 }
