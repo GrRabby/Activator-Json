@@ -17,7 +17,7 @@
         },
             "MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtZTRiOTdhMWMyZTZjXzNTVkhTUTI=" : {
                 "UserName" : "mhl-sylhet-branch",
-                "Status" : false,
+                "Status" : true,
                 "StatusText" : "User not activated\nPlease contact with developer to reactivate",
                 "API_Status" : "On",
                 "API_Key": "grrabbygr",
