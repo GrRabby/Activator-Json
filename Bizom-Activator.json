@@ -1,7 +1,7 @@
 {
   "Status" : true,
   "StatusText" : "Software is not activated!\nPlease contact with developer to reactivate",
-  "API_Status" : "On",
+  "API_Status" : "Off",
   "API_Key": "grrabby",
   "App_Unique_ID": 123456789,
   "Users" :  {
