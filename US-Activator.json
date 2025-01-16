@@ -1,7 +1,7 @@
 {
     "activate" : "true",
     "App_Unique_ID" : "252345",
-    "database_type" : "MySql",
+    "database_type" : "sq",
     "db_host" : "slot-booking-app.cxc4s60aaza0.eu-north-1.rds.amazonaws.com",
     "Users" :  {
             "MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtZTRiOTdhMWMyZTZjXzNTVkhTUTI=" : {
