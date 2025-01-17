@@ -4,33 +4,21 @@
     "database_type" : "MySql",
     "db_host" : "slot-booking-app.cxc4s60aaza0.eu-north-1.rds.amazonaws.com",
     "Users" :  {
-            "MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtZTRiOTdhMWMyZTZjXzNTVkhTUTI=" : {
-                "UserName" : "Gr Rabby",
-                "Phone" : "192.168.0.103",
-                "Status" : "On",
-                "Status_text" : "User not activated please contact with developer."
-        },
-            "MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtOTBiMTFjOWZiMTg4XzRXVkQ0WTE=" : {
-                "UserName" : "Gr Rabby2",
-                "Phone" : "192.168.0.199",
-                "Status" : "On",
-                "Status_text" : "User not activated please contact with developer."
-        },
         "MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtYzg1YWNmNmJjODI2X0NORDE0MzExUEs=" : {
                 "UserName" : "Robin",
                 "Phone" : "01878776636",
                 "Status" : "On",
                 "Status_text" : "User not activated please contact with developer."
         },
-        "MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtMGE5ZDJiYjZlYjMzX2VjMmMwNWEyLTQ0MDktMGYzOS1kMWZiLWRiYjZiNjZmN2M2MQ==" : {
-                "UserName" : "RDP2",
-                "Phone" : "13.203.158.229",
-                "Status" : "On",
-                "Status_text" : "User not activated please contact with developer."
-        },
         "MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtMGFkZGM2MGVmMGU3X2VjMjI4ZTJiLWRhODMtMjdkZi0zNGViLTJhN2U4OTNmMTZiMw==" : {
                 "UserName" : "RDP1",
                 "Phone" : "65.2.40.188",
+                "Status" : "On",
+                "Status_text" : "User not activated please contact with developer."
+        },
+        "MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtMGE5ZDJiYjZlYjMzX2VjMmMwNWEyLTQ0MDktMGYzOS1kMWZiLWRiYjZiNjZmN2M2MQ==" : {
+                "UserName" : "RDP2",
+                "Phone" : "13.203.158.229",
                 "Status" : "On",
                 "Status_text" : "User not activated please contact with developer."
         },
@@ -57,6 +45,18 @@
                 "Phone" : "13.201.129.80",
                 "Status" : "On",
                 "Status_text" : "User not activated please contact with developer."
-        }
+        },
+        "MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtZTRiOTdhMWMyZTZjXzNTVkhTUTI=" : {
+                "UserName" : "Gr Rabby",
+                "Phone" : "192.168.0.103",
+                "Status" : "On",
+                "Status_text" : "User not activated please contact with developer."
+        },
+            "MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtOTBiMTFjOWZiMTg4XzRXVkQ0WTE=" : {
+                "UserName" : "Gr Rabby2",
+                "Phone" : "192.168.0.199",
+                "Status" : "On",
+                "Status_text" : "User not activated please contact with developer."
+        },
     }
 }
