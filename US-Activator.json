@@ -4,7 +4,7 @@
     "database_type" : "MySql",
     "db_host" : "slot-booking-app.cxc4s60aaza0.eu-north-1.rds.amazonaws.com",
     "Users" :  {
-        "MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtMGFkZGM2MGVmMGU3X2VjMjI4ZTJiLWRhODMtMjdkZi0zNGViLTJhN2U4OTNmMTZiMw==" : {
+        "MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtMGE4NmIyODcyNGQxX2VjMjI4NzIxLTk3Y2YtMTVhNi0wM2E5LWY1ZjJjZjhmOTk2MA==" : {
                 "UserName" : "RDP1",
                 "Phone" : "3.110.204.24",
                 "Status" : "On",
