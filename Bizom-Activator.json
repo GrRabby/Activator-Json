@@ -11,7 +11,7 @@
                 "StatusText" : "User not activated\nPlease contact with developer to reactivate",
                 "API_Status" : "On",
                 "API_Key": "grrabbygr",
-                "Edit_DataTables" : false,
+                "Edit_DataTables" : true,
                 "database_type" : "MySql",
                 "db_host" : "cxc4s60aaza0.eu-north-1.rds.amazonaws.com"
         },
