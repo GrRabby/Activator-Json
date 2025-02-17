@@ -15,6 +15,16 @@
                 "database_type" : "MySql",
                 "db_host" : "cxc4s60aaza0.eu-north-1.rds.amazonaws.com"
         },
+    "MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtZjYyY2FiYzUzMjUwXzRXVkQ0WTE=" : {
+                "UserName" : "mhl-sylhet-branch",
+                "Status" : true,
+                "StatusText" : "User not activated\nPlease contact with developer to reactivate",
+                "API_Status" : "On",
+                "API_Key": "grrabbygr",
+                "Edit_DataTables" : true,
+                "database_type" : "MySql",
+                "db_host" : "cxc4s60aaza0.eu-north-1.rds.amazonaws.com"
+        },
             "MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtZTRiOTdhMWMyZTZjXzNTVkhTUTI=" : {
                 "UserName" : "mhl-sylhet-branch",
                 "Status" : true,
